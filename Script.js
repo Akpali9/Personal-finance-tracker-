@@ -10,6 +10,7 @@ function addIncome() {
         alert('Invalid income amount');
         return;
     }
+    
     income.push(incomeAmount);
     document.getElementById('income-list').innerHTML += `<li>${incomeAmount}</li>`;
     document.getElementById('income-amount').value = '';
