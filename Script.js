@@ -1,7 +1,6 @@
 
 let income = [];
 let expenses = [];
-
 document.getElementById('add-income-btn').addEventListener('click', addIncome);
 document.getElementById('add-expense-btn').addEventListener('click', addExpense);
 
