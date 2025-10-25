@@ -26,3 +26,4 @@ The Personal Finance Tracker App is a web-based application designed to help use
 2. *Small Business Owners:* Entrepreneurs and small business owners who need to track their business expenses and income.
 
 This project aims to provide a simple and effective solution for personal finance management, helping users take control of their financial lives.
+
