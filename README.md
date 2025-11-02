@@ -22,6 +22,7 @@ The Personal Finance Tracker App is a web-based application designed to help use
 1. *Front-end:* HTML, CSS, and JavaScript
 2. *Back-end:* None (client-side only)
 
+
 *Target Audience:*
 
 1. *Individuals:* Anyone looking to manage their personal finances effectively.
